@@ -1,0 +1,28 @@
+
+
+/************************* TAG Selectors *************************/
+body {
+  background-color: #D4ECDD;
+  }
+
+hr {
+  border-style: none;
+  border-top: 3px solid #152D35;
+  }
+
+h1 {color: #345B63;}
+h2 {color: #345B63;}
+h3 {color: #345B63;}
+h4 {color: #345B63;}
+h5 {color: #345B63;}
+h6 {color: #345B63;}
+
+
+/************************* CLASS Selectors *************************/
+
+.profile-pic {
+  border-radius: 100%;
+
+}
+
+/************************* ID Selectors *************************/
